@@ -1,4 +1,4 @@
-FROM ctf_create_img
+FROM yukimina/ctf_create_img
 
 RUN adduser noob
 COPY chall4 /
